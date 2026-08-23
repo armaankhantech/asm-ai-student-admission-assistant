@@ -2,12 +2,56 @@ require("dotenv").config();
 
 const express = require("express");
 const supabase = require("./db");
+const chatRouter = require("./routes/chat");
 
 const app = express();
 
 const PORT = process.env.PORT || 3000;
 
+// --------------------------------------------------
+// CORS
+// Frontend: http://localhost:3001
+// Backend:  http://localhost:3000
+// --------------------------------------------------
+
+app.use((req, res, next) => {
+  res.header(
+    "Access-Control-Allow-Origin",
+    "http://localhost:3001"
+  );
+
+  res.header(
+    "Access-Control-Allow-Methods",
+    "GET,POST,PUT,PATCH,DELETE,OPTIONS"
+  );
+
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Content-Type, Authorization"
+  );
+
+  if (req.method === "OPTIONS") {
+    return res.sendStatus(204);
+  }
+
+  next();
+});
+
+// --------------------------------------------------
+// Body parsing
+// --------------------------------------------------
+
 app.use(express.json());
+
+// --------------------------------------------------
+// Chat API
+// --------------------------------------------------
+
+app.use("/api/chat", chatRouter);
+
+// --------------------------------------------------
+// Health check
+// --------------------------------------------------
 
 app.get("/api/health", (req, res) => {
   res.json({
@@ -15,6 +59,10 @@ app.get("/api/health", (req, res) => {
     message: "ASM AI backend is running",
   });
 });
+
+// --------------------------------------------------
+// Supabase test
+// --------------------------------------------------
 
 app.get("/api/test-db", async (req, res) => {
   try {
@@ -42,6 +90,12 @@ app.get("/api/test-db", async (req, res) => {
   }
 });
 
+// --------------------------------------------------
+// Start server
+// --------------------------------------------------
+
 app.listen(PORT, () => {
-  console.log(`ASM AI backend running on http://localhost:${PORT}`);
+  console.log(
+    `ASM AI backend running on http://localhost:${PORT}`
+  );
 });
