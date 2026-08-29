@@ -45,23 +45,20 @@ It was deciding how the entire system should be structured before adding the AI 
 ---
 
 ---
-## What I learned
+## The chatbot is now working across the complete application flow:
 
-A production-oriented AI application shouldn't be:
-
-UI → LLM
-
-Instead, the AI should eventually sit inside a proper system:
-
-UI
- ↓
-API
- ↓
-Data
- ↓
-Retrieval
- ↓
+Student
+   ↓
+ASM AI Frontend
+   ↓
+Node.js + Express Backend
+   ↓
+Supabase / PostgreSQL
+   ↓
+Structured Knowledge Retrieval
+   ↓
 LLM
- ↓
-Response
----
+   ↓
+Streaming Response
+   ↓
+Student
