@@ -1,4 +1,4 @@
-# Asm-ai-student-admission-assistant
+# Asm-AI-student-admission-assistant
 ASM AI — Student & Admission Assistant for ASM CSIT
 Today I officially started ASM AI, a new AI-powered student/college assistant project.
 ---
