@@ -1,0 +1,15 @@
+{
+  "name": "asm-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ASM AI Student Admission Assistant",
+  "scripts": {
+    "dev": "node start-dev.cjs",
+    "dev:backend": "pnpm --dir backend start",
+    "dev:frontend": "pnpm --dir \"ASM AI MANUS EXPORT/asm-ai-frontend (2)\" dev"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  },
+  "packageManager": "pnpm@11.23.0"
+}

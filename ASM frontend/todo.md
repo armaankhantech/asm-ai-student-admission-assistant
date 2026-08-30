@@ -1,0 +1,38 @@
+- [x] Read the complete revised specification and extract all visual, scope, and assistant requirements.
+- [x] Audit the official ASM CSIT homepage and authorized website assets for exact logo, hero, gallery, typography, colors, navigation, and footer references.
+- [x] Remove the Campus Ledger theme, generated compass mark, generated concept imagery, and all invented branding from the current frontend.
+- [x] Rebuild the shared header, homepage sections, and footer to match the authorized ASM CSIT visual language while preserving the two-route limit.
+- [x] Rebuild the enquiry route as an ASM CSIT-style admission form using the same branding, imagery, and visual system.
+- [x] Upgrade the original ASM AI overlay to use the official ASM logo and a premium college-assistant UI without fake AI answers or backend changes.
+- [x] Validate desktop and mobile fidelity, auto-open behavior, enquiry states, source assets, accessibility, and build output.
+- [x] Save a final checkpoint and deliver the rebuilt frontend.
+- [ ] Read the full chatbot-refinement brief and capture final behavior, animation, and interaction requirements.
+- [x] Improve only the header affiliation/institutional-information readability without altering the approved header structure.
+- [x] Create an isolated official ASM-only circular launcher without assistant text, secondary accreditation elements, or custom logos.
+- [x] Change homepage auto-open behavior to a smooth one-time 2–3 second delayed expansion from the launcher.
+- [x] Redesign the ASM AI welcome, quick-action cards, popular questions, message states, loading state, and composer as a polished student-assistant experience.
+- [x] Remove user-facing backend/development-connection messaging while retaining no-fake-answer behavior and existing service abstractions.
+- [x] Validate desktop and mobile assistant behavior, accessibility, visual polish, and production build; save a checkpoint.
+- [x] Fit the isolated official ASM logo cleanly inside the circular chatbot launcher without cropping or distortion.
+- [x] Fix the responsive header brand lockup so “Audyogik Shikshan Mandal’s” remains visible and does not sit behind the logo.
+- [x] Verify both fixes at desktop and mobile widths, then save a checkpoint.
+- [x] Inspect the current launcher mask, auto-open lifecycle, and mobile header layout for the reported regressions.
+- [x] Make the launcher logo read as a centered circular badge without changing the source ASM logo or the website design.
+- [x] Remove persistent auto-open suppression so ASM AI opens after 2–3 seconds on every fresh page load, while still respecting an in-page manual close.
+- [x] Ensure the responsive mobile header keeps its existing logos and branding text visible without overlap or overflow.
+- [x] Run production checks and verify desktop/mobile launcher, auto-open, close/reopen, and header behavior before checkpointing.
+- [x] Read the remaining chatbot-only redesign brief and preserve the explicit no-change boundary for the approved college website.
+- [x] Redesign the ASM AI welcome/hero area with an original, premium ASM-specific visual identity and restrained motion.
+- [x] Replace the generic topic-card grid with a distinctive, low-friction action-discovery pattern while retaining the six admission intents.
+- [x] Refine suggested questions, long-form conversation affordances, branded message states, and the composer without adding backend behavior or fake answers.
+- [x] Preserve the circular official-logo launcher and reliable 2–3 second fresh-load auto-open behavior.
+- [x] Validate desktop and mobile assistant UX, accessibility, no-change college-site boundary, and production build before checkpointing.
+- [ ] Record the final chatbot-polish requirements and preserve the approved college site, launcher, and auto-open boundary.
+- [x] Make the desktop and mobile chatbot viewport-safe with internal scrolling and a permanently visible header and composer.
+- [x] Add 2–3 more clean popular questions and fix the composer icon, text, and send-button alignment using flex layout.
+- [x] Add an elegant in-chat “View all FAQs” selection view with categories, back navigation, and future question-send readiness.
+- [x] Validate containment at 1920×1080, 1366×768, 1280×720, and mobile; then run the production build and save a checkpoint.
+- [x] Preserve the final freeze boundary: chatbot-only content and responsive polish, with no college-site or backend changes.
+- [x] Add the matching “About ASM CSIT” topic card and replace the requested welcome-card copy without changing its approved visual treatment.
+- [x] Update the Question Trail and categorized FAQ choices to the final admission, college, campus, and contact wording.
+- [x] Re-verify viewport containment, composer alignment, question/FAQ interaction readiness, and the production build at the final target sizes.
