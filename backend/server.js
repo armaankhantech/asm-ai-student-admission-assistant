@@ -3,6 +3,7 @@ require("dotenv").config();
 const express = require("express");
 const supabase = require("./db");
 const chatRouter = require("./routes/chat");
+const enquiriesRouter = require("./routes/enquiries");
 
 const app = express();
 
@@ -48,6 +49,7 @@ app.use(express.json());
 // --------------------------------------------------
 
 app.use("/api/chat", chatRouter);
+app.use("/api/enquiries", enquiriesRouter);
 
 // --------------------------------------------------
 // Health check

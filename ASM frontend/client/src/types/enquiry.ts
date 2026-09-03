@@ -5,7 +5,7 @@ export type EnquiryFormData = {
   interestedCourse: string;
   enquiryType: string;
   question: string;
-  email?: string;
+  email: string;
   city?: string;
   whatsappConsent?: boolean;
 };
