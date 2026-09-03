@@ -46,7 +46,7 @@ The system combines two major capabilities:
 
 Students can ask questions about the college, courses, admissions, fees, placements, infrastructure, contact information and other supported college information.
 
-The chatbot uses a **Retrieval-Augmented Generation (RAG)** approach so that responses are grounded in the college's verified knowledge base rather than relying only on general model knowledge.
+The chatbot uses a **Structured Knowledge-Powered College Chatbot** approach so that responses are grounded in the college's verified knowledge base rather than relying only on general model knowledge.
 
 ### ⚡ 2. Admission Enquiry Automation
 
