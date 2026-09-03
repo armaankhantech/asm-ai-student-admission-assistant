@@ -62,3 +62,25 @@ LLM
 Streaming Response
    ↓
 Student
+
+## What was completed
+✅ Enquiry form connected to backend
+✅ Enquiries stored in admission_enquiries
+✅ PostgreSQL trigger created
+✅ pg_net enabled
+✅ n8n webhook connected
+✅ Real enquiry successfully received by n8n
+✅ Existing ASM AI chatbot remains untouched
+---
+
+
+## Next milestone
+n8n
+ ↓
+AI Enquiry Analysis
+ ↓
+Admission Team Notification
+ ↓
+WhatsApp Automation
+
+The goal is to build the V1 demo using free/open-source/free-tier resources wherever realistically possible.
