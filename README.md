@@ -1805,7 +1805,7 @@ ASM AI follows these principles:
 
 # 💰 Cost Philosophy
 
-ASM AI V1 was designed around a **₹0 development-cost target** by using free, local and self-hosted components wherever realistically possible.
+ASM AI V1 was designed around using free, local and self-hosted components wherever realistically possible.
 
 Examples include:
 
