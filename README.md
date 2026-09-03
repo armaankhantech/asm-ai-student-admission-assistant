@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.csit.edu.in/wp-content/uploads/2024/05/CSIT-LOGO-02.png" alt="ASM CSIT Logo" width="150"/>
-
 # 🎓 ASM AI
 
 ### AI Student & Admission Assistant
