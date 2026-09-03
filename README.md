@@ -5,7 +5,7 @@
 ### AI Student & Admission Assistant
 
 <p>
-  <strong>Structured Knoowledge-Powered College Chatbot • Intelligent Admission Automation • Event-Driven Architecture</strong>
+  <strong>Structured Knowledge-Powered College Chatbot • Intelligent Admission Automation • Event-Driven Architecture</strong>
 </p>
 
 <p>
