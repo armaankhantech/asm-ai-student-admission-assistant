@@ -50,6 +50,7 @@ The chatbot uses a **Structured Knowledge-Powered College Chatbot** approach so 
 
 ## Image : 
 <img width="1920" height="880" alt="Image" src="https://github.com/user-attachments/assets/7153307c-7cac-4162-8200-ca786dbf1925" />
+<img width="617" height="851" alt="Image" src="https://github.com/user-attachments/assets/7d14e0e0-471c-4e82-b052-decf2f03cbb9" />
 
 ### ⚡ 2. Admission Enquiry Automation
 
