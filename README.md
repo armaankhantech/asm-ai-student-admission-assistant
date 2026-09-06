@@ -83,6 +83,8 @@ Admissions Team Email    Student Email
 
 The entire process is automated without requiring the admission team to manually monitor a spreadsheet.
 
+## Image :
+<img width="1861" height="778" alt="Image" src="https://github.com/user-attachments/assets/3fc4d148-721a-4825-908a-14a8bbc13b1a" />
 ---
 
 # ✨ Why ASM AI?
