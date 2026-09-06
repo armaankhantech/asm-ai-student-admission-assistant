@@ -48,6 +48,8 @@ Students can ask questions about the college, courses, admissions, fees, placeme
 
 The chatbot uses a **Structured Knowledge-Powered College Chatbot** approach so that responses are grounded in the college's verified knowledge base rather than relying only on general model knowledge.
 
+## Image : 
+
 ### ⚡ 2. Admission Enquiry Automation
 
 When a student submits the admission enquiry form:
