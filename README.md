@@ -2,7 +2,7 @@
 
 # 🎓 ASM AI
 
-### 
+### AI Student & Admission Assistant
 
 <p>
   <strong>Structured Knowledge-Powered College Chatbot • Intelligent Admission Automation • Event-Driven Architecture</strong>
