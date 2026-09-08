@@ -6,7 +6,7 @@
 
 <p>
   <strong>Structured Knowledge-Powered College Chatbot • Intelligent Admission Automation • Event-Driven Architecture</strong>
-</p>
+</p> 
 
 <p>
   An AI-powered assistant designed for ASM College of Commerce, Science & Information Technology (CSIT), built to help students get reliable college information and automate admission enquiry handling.
