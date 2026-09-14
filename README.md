@@ -428,6 +428,7 @@ This means the system does not need to continuously poll a Google Sheet to disco
 
 # 🤖 Two AI Models — Two Different Jobs
 
+One of the important design decisions in ASM AI is that the same model does not need to perform every task.
 
 
 | AI System | Model | Responsibility |
