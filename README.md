@@ -1,3 +1,38 @@
+<div align="center">
+
+# 🎓 ASM AI
+
+### AI Student & Admission Assistant
+
+<p>
+  <strong>Structured Knowledge-Powered College Chatbot • Intelligent Admission Automation • Event-Driven Architecture</strong>
+</p> 
+
+<p>
+  An AI-powered assistant designed for ASM College of Commerce, Science & Information Technology (CSIT), built to help students get reliable college information and automate admission enquiry handling. 
+</p>
+ 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=159B67&center=true&vCenter=true&width=850&lines=AI+Student+Admission+Assistant;Structured+Knowledge-Powered+College+Chatbot;Event-Driven+Admission+Automation;Node.js+%2B+Supabase+%2B+n8n;Built+for+ASM+CSIT" alt="Animated ASM AI description"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ASM%20AI-V1.0-159B67?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-Completed%20Demo-1C2D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROJECT-College%20Proof%20of%20Work-6C63FF?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/armaankhantech/asm-ai-student-admission-assistant">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.csit.edu.in/">
+<img src="https://img.shields.io/badge/ASM%20CSIT-Official%20Website-159B67?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
