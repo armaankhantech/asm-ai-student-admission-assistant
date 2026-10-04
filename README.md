@@ -1,18 +1,4 @@
-<div align="center">
 
-# 🎓 ASM AI
-
-### AI Student & Admission Assistant
-
-<p>
-  <strong>Structured Knowledge-Powered College Chatbot • Intelligent Admission Automation • Event-Driven Architecture</strong>
-</p> 
-
-<p>
-  An AI-powered assistant designed for ASM College of Commerce, Science & Information Technology (CSIT), built to help students get reliable college information and automate admission enquiry handling. 
-</p>
- 
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=159B67&center=true&vCenter=true&width=850&lines=AI+Student+Admission+Assistant;Structured+Knowledge-Powered+College+Chatbot;Event-Driven+Admission+Automation;Node.js+%2B+Supabase+%2B+n8n;Built+for+ASM+CSIT" alt="Animated ASM AI description"/>
 
