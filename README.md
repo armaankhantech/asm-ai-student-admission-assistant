@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 ASM AI
+# 🎓 ASM AI 
 
 ### AI Student & Admission Assistant 
 
